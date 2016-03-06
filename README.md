@@ -2,7 +2,7 @@
 百度前端学院_TFGIRLS_团队
 
 ## 团队成员
-* [yxwzaxns](github.com/yxwzaxns)
-*
-*
-*
+* [yxwzaxns](http://github.com/yxwzaxns)
+* xxx
+* xxx
+* xxx
