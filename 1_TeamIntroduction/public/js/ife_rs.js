@@ -48,4 +48,8 @@ $(function() {
             ++degree; rotate();
         },30);
     }
+		// rand
+		var let = new Array('A','B','C','D','E','F','G');
+		replace="座位： 内场"+let[Math.round(Math.random()*6)+0]+(Math.floor(Math.random()*10)+1)+"区    "+(Math.floor(Math.random()*10)+1)+"排"+(Math.floor(Math.random()*10)+1)+"座";
+		$(".ife_face #position").html(replace);
 })
